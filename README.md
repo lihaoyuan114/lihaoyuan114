@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lihaoyuan114&label=Profile%20views&color=0e75b6&style=flat" alt="lihaoyuan114" /> </p>
 
-- 🔭 I’m currently working on **My own game**
+- 🔭 I’m currently working on **My AI Project**
 
 - 🌱 I’m currently learning **AI and Linux**
 
