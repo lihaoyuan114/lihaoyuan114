@@ -2,19 +2,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=QL_Leo&fontAlign=50&fontAlignY=38&color=gradient&animation=fadeIn"/>
 
+[🇺🇸 English](README.md) | **🇨🇳 简体中文**
 
-**🇺🇸 English** | [🇨🇳 简体中文](README_CN.md)
+# 👋 你好，我是 QL_Leo
 
+### 🎮 独立游戏开发者 · 🤖 AI 爱好者 · 🐧 Arch Linux 用户
 
-# 👋 Hi, I'm QL_Leo
-
-### 🎮 Indie Game Developer · 🤖 AI Enthusiast · 🐧 Arch Linux User
-
-> *Dreaming, Coding, Creating.*
+> *追寻梦想，享受创造。*
 
 <p>
 
-<img src="https://komarev.com/ghpvc/?username=lihaoyuan114&label=Visitors&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=lihaoyuan114&label=访客&color=blueviolet&style=for-the-badge"/>
 
 <a href="https://github.com/QinglanStudio">
 <img src="https://img.shields.io/badge/Qinglan-Studio-7F52FF?style=for-the-badge&logo=github"/>
@@ -26,34 +24,34 @@
 
 ---
 
-# 🌸 About Me
+# 🌸 关于我
 
 ```gdscript
 extends QL_Leo
 
-var role:String = "Student & Indie Game Developer"
+var 身份:String = "学生 / 独立游戏开发者"
 
-var interests:Array[String] = [
-        "Game Development",
-        "Artificial Intelligence",
-        "Linux",
-        "Open Source",
-        "Anime"
-    ]
+var 兴趣:Array[String] = [
+    "游戏开发",
+    "人工智能",
+    "Linux",
+    "开源",
+    "二次元"
+]
 
-var currently_working_on:String = "My own game"
-var favorite_engine:String = "Godot ❤️"
-````
+var 正在开发:String = "属于自己的游戏"
+var 最喜欢的引擎:String = "Godot ❤️"
+```
 
-* 🎮 Founder of **Qinglan Studio**
-* 🤖 Developing AI Digital Life **「竹内綾香」**
-* 🌱 Currently learning **AI / Algorithms / Linux**
-* 💻 Mostly using **Godot**, **Python** and **GDScript**
-* ☕ Powered by coffee and anime.
+- 🎮 青岚工作室（Qinglan Studio）创始人
+- 🤖 AI 数字生命 **「竹内綾香」** 开发者
+- 🌱 正在学习 **人工智能 / 算法 / Linux**
+- 💻 主要使用 **Godot、Python、GDScript**
+- ☕ 咖啡、动漫，以及偶尔熬夜驱动开发
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 技术栈
 
 <p align="center">
 
@@ -83,22 +81,26 @@ var favorite_engine:String = "Godot ❤️"
 
 ---
 
-# 🚀 Current Projects
+# 🚀 正在进行
 
-* 🌑 Some websites
-* 🐱 AI Digital Life "Takeuchi Ayaka"
-* 🎮 An indie game
+- 🌑 一些网站与开源项目
+- 🐱 AI 数字生命 **「竹内綾香」**
+- 🎮 一款独立游戏
 
 ---
 
-# 🌐 Find Me
+# 🌐 联系我
 
 | <div align="center"><a href="https://space.bilibili.com/3537114702547033"><img src="https://cdn.simpleicons.org/bilibili/00A1D6" width="40"/></a></div> | <div align="center"><a href="https://leetcode.com/u/QL_Leo/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="40"/></a></div> | <div align="center"><a href="https://www.reddit.com/user/Traditional_Read9408/"><img src="https://cdn.simpleicons.org/reddit/FF4500" width="40"/></a></div> | <div align="center"><a href="https://github.com/QinglanStudio"><img src="https://cdn.simpleicons.org/github/ffffff" width="40"/></a></div> |
 | :-: | :-: | :-: | :-: |
 
-> **"Make games that are fun, not profitable."**
+---
 
-⭐ Thanks for visiting!
+<div align="center">
+
+> **「制作真正好玩的游戏，而不是为了盈利。」**
+
+⭐ 感谢你的访问！
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient"/>
 
