@@ -103,5 +103,3 @@ var favorite_engine:String = "Godot ❤️"
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient"/>
 
 </div>
-
-生成中文版
