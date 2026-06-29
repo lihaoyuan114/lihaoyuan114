@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm QL_Leo
 
-### 🎮 Indie Game Developer · 🤖 AI Enthusiast · 🐧 Linux User
+### 🎮 Indie Game Developer · 🤖 AI Enthusiast · 🐧 ArchLinux User
 
 > *Dreaming, Coding, Creating.*
 
@@ -24,30 +24,27 @@
 
 # 🌸 About Me
 
-```cpp
-class QL_Leo
-{
-public:
-    string role = "Student & Indie Game Developer";
+```gdscript
+extends QL_Leo
 
-    vector<string> interests =
-    {
+var role:String = "Student & Indie Game Developer"
+
+var interests:Array[String] = [
         "Game Development",
         "Artificial Intelligence",
         "Linux",
         "Open Source",
         "Anime"
-    };
+    ]
 
-    string currently_working_on = "My own game";
-    string favorite_engine = "Godot ❤️";
-};
+var currently_working_on:String = "My own game"
+var favorite_engine:String = "Godot ❤️"
 ````
 
 * 🎮 Founder of **Qinglan Studio**
 * 🤖 Developing AI Digital Life **「竹内綾香」**
 * 🌱 Currently learning **AI / Algorithms / Linux**
-* 💻 Mostly using **Godot**, **Python** and **C#**
+* 💻 Mostly using **Godot**, **Python** and **GDScript**
 * ☕ Powered by coffee and anime.
 
 ---
@@ -64,49 +61,36 @@ public:
 
 # 📈 GitHub
 
-<p align="center">
+<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=lihaoyuan114&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lihaoyuan114&theme=tokyonight"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=lihaoyuan114&theme=tokyonight&hide_border=true"/>
+<br><br>
 
-</p>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lihaoyuan114&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lihaoyuan114&theme=tokyonight&utcOffset=8"/>
 
-<p align="center">
+<br><br>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=lihaoyuan114&theme=tokyo-night&hide_border=true"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lihaoyuan114&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lihaoyuan114&theme=tokyonight"/>
 
-</p>
+</div>
 
 ---
 
 # 🚀 Current Projects
 
-* 🎵 CirDom Series
-* 🔥 Hell Survivor
-* 🚪 Run For Your Life
-* 🌑 1955
+* 🌑 Some websites
 * 🐱 AI Digital Life "Takeuchi Ayaka"
+* 🎮 An indie game
 
 ---
 
 # 🌐 Find Me
 
-<p align="center">
-
-<a href="https://github.com/lihaoyuan114">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://github.com/QinglanStudio">
-<img src="https://img.shields.io/badge/Qinglan%20Studio-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
+| <div align="center"><a href="https://space.bilibili.com/3537114702547033"><img src="https://cdn.simpleicons.org/bilibili/00A1D6" width="40"/></a></div> | <div align="center"><a href="https://leetcode.com/u/QL_Leo/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="40"/></a></div> | <div align="center"><a href="https://www.reddit.com/user/Traditional_Read9408/"><img src="https://cdn.simpleicons.org/reddit/FF4500" width="40"/></a></div> | <div align="center"><a href="https://github.com/QinglanStudio"><img src="https://cdn.simpleicons.org/github/ffffff" width="40"/></a></div> |
+| :-: | :-: | :-: | :-: |
 
 > **"Make games that are fun, not profitable."**
 
