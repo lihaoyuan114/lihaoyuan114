@@ -2,6 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=QL_Leo&fontAlign=50&fontAlignY=38&color=gradient&animation=fadeIn"/>
 
+
+**🇺🇸 English** | [🇨🇳 简体中文](README_CN.md)
+
+
 # 👋 Hi, I'm QL_Leo
 
 ### 🎮 Indie Game Developer · 🤖 AI Enthusiast · 🐧 ArchLinux User
