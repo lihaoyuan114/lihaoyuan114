@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **AI , Algorithm and Linux**
 
-- Visit our Studio website!(although only one person is working) **https://lihaoyuan114.github.io/QinglanStudioOfficialWeb/**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
