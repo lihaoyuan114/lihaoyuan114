@@ -1,16 +1,117 @@
-<h1 align="center">Hi 👋, I'm QL_Leo</h1>
-<h3 align="center">A personal game developer, not femboy lol</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lihaoyuan114&label=Profile%20views&color=0e75b6&style=flat" alt="lihaoyuan114" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=QL_Leo&fontAlign=50&fontAlignY=38&color=gradient&animation=fadeIn"/>
 
-- 🔭 I’m currently working on **My own game**
+# 👋 Hi, I'm QL_Leo
 
-- 🌱 I’m currently learning **AI , Algorithm and Linux**
+### 🎮 Indie Game Developer · 🤖 AI Enthusiast · 🐧 Linux User
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+> *Dreaming, Coding, Creating.*
+
+<p>
+
+<img src="https://komarev.com/ghpvc/?username=lihaoyuan114&label=Visitors&color=blueviolet&style=for-the-badge"/>
+
+<a href="https://github.com/QinglanStudio">
+<img src="https://img.shields.io/badge/Qinglan-Studio-7F52FF?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+</div>
 
+---
+
+# 🌸 About Me
+
+```cpp
+class QL_Leo
+{
+public:
+    string role = "Student & Indie Game Developer";
+
+    vector<string> interests =
+    {
+        "Game Development",
+        "Artificial Intelligence",
+        "Linux",
+        "Open Source",
+        "Anime"
+    };
+
+    string currently_working_on = "My own game";
+    string favorite_engine = "Godot ❤️";
+};
+````
+
+* 🎮 Founder of **Qinglan Studio**
+* 🤖 Developing AI Digital Life **「竹内綾香」**
+* 🌱 Currently learning **AI / Algorithms / Linux**
+* 💻 Mostly using **Godot**, **Python** and **C#**
+* ☕ Powered by coffee and anime.
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=godot,unity,python,cpp,cs,linux,bash,git,github,vscode,blender"/>
+
+</p>
+
+---
+
+# 📈 GitHub
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=lihaoyuan114&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=lihaoyuan114&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=lihaoyuan114&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🚀 Current Projects
+
+* 🎵 CirDom Series
+* 🔥 Hell Survivor
+* 🚪 Run For Your Life
+* 🌑 1955
+* 🐱 AI Digital Life "Takeuchi Ayaka"
+
+---
+
+# 🌐 Find Me
+
+<p align="center">
+
+<a href="https://github.com/lihaoyuan114">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://github.com/QinglanStudio">
+<img src="https://img.shields.io/badge/Qinglan%20Studio-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+> **"Make games that are fun, not profitable."**
+
+⭐ Thanks for visiting!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient"/>
+
+</div>
