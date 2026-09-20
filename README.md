@@ -8,7 +8,7 @@
 
 # 👋 Hi, I'm QL_Leo
 
-### 🎮 Indie Game Developer · 🤖 AI Enthusiast · 🐧 Arch Linux User
+### 🎮 Indie Game Developer · 🤖 AI Enthusiast · 🐧 ~~Arch~~ Fedora Linux User
 
 > *Dreaming, Coding, Creating.*
 
