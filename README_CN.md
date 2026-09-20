@@ -102,6 +102,8 @@ var 最喜欢的引擎:String = "Godot ❤️"
 
 ⭐ 感谢你的访问！
 
+~~AI太好用了你知道吗~~
+
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient"/>
 
 </div>
